@@ -32,4 +32,4 @@ Data was cleaned and prepared prior to visualisation using Python/R.
 
 This dashboard is based on a separate analysis project:
 
-[Olympic Data Analysis](PUT YOUR OTHER REPO LINK HERE)
+[Olympic Data Analysis](https://github.com/JudeBall03/olympic-data-analysis)
