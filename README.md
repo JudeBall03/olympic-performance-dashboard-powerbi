@@ -21,12 +21,17 @@ The dashboard analyses:
 
 ## Dashboard Preview
 
+### Overview
+
 ![Overview](dashboard-overview.png)
+
+### GDP Filter Example
+
 ![GDP Filter](gdp-filter-example.png)
 
 ## Data
 
-Data was cleaned and prepared prior to visualisation using Python/R.
+Data was cleaned and prepared in R prior to visualisation in Power BI.
 
 ## Related Project
 
